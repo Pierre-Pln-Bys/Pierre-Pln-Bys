@@ -37,8 +37,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-psi-jade-94.vercel.app/api?username=Pierre-Pln-Bys&count_private=true&show_icons=true&theme=dark" alt="Stats GitHub" />
-<img height="170" src="https://github-readme-stats-psi-jade-94.vercel.app/api/top-langs/?username=Pierre-Pln-Bys&count_private=true&layout=compact&theme=dark" alt="Langages les plus utilisés" />
+<img height="170" src="https://github-readme-stats-pierre-pln.vercel.app/api?username=Pierre-Pln-Bys&count_private=true&show_icons=true&theme=dark" alt="Stats GitHub" />
+<img height="170" src="https://github-readme-stats-pierre-pln.vercel.app/api/top-langs/?username=Pierre-Pln-Bys&count_private=true&layout=compact&theme=dark&hide=shell" alt="Langages les plus utilisés" />
 
 </div>
 
