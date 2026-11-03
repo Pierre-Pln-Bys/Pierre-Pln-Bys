@@ -2,16 +2,16 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00A6D6&center=true&vCenter=true&width=600&lines=Salut,+moi+c'est+Pierre+%F0%9F%91%8B;%C3%89tudiant+%C3%A0+l'ENSEIRB-MATMECA;%C3%89lectronique+%26+syst%C3%A8mes+embarqu%C3%A9s;Du+C,+du+C%2B%2B+et+du+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00A6D6&center=true&vCenter=true&width=600&lines=Salut,+moi+c'est+Pierre+%F0%9F%91%8B;%C3%89tudiant+%C3%A0+l'ENSEIRB-MATMECA;Syst%C3%A8mes+%26+%C3%89lectronique+%26+Embarqu%C3%A9s;Du+C,+du+C%2B%2B+et+du+Python" alt="Typing SVG" />
 
 </div>
 
-## Ce que je fais en ce moment
+## 📌 Ce que je fais en ce moment
 
 - 🔧 Électronique et systèmes embarqués
 - 📚 J'apprends le **C++** et la **POO** en général
 
-## Technos
+## 💻 Technos
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -33,7 +33,7 @@
 
 </div>
 
-## Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -42,6 +42,6 @@
 
 </div>
 
-## Me contacter
+## 🔗 Me contacter
 
 [LinkedIn](https://www.linkedin.com/in/pierre-pln)
