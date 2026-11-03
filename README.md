@@ -1,16 +1,47 @@
-## Hi there 👋
+<!-- Remplace Pierre-Pln-Bys par ton pseudo GitHub -->
 
-<!--
-**Pierre-Pln-Bys/Pierre-Pln-Bys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00A6D6&center=true&vCenter=true&width=600&lines=Salut,+moi+c'est+Pierre+%F0%9F%91%8B;%C3%89tudiant+%C3%A0+l'ENSEIRB-MATMECA;%C3%89lectronique+%26+syst%C3%A8mes+embarqu%C3%A9s;Du+C,+du+C%2B%2B+et+du+Python" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## Ce que je fais en ce moment
+
+- 🔧 Électronique et systèmes embarqués
+- 📚 J'apprends le **C++** et la **POO** en général
+
+## Technos
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 🐍 Le serpent mange mes contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pierre-Pln-Bys/Pierre-Pln-Bys/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pierre-Pln-Bys/Pierre-Pln-Bys/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Pierre-Pln-Bys/Pierre-Pln-Bys/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+## Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?Pierre-Pln-Bys=Pierre-Pln-Bys&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?Pierre-Pln-Bys=Pierre-Pln-Bys&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## Me contacter
+
+[LinkedIn](https://www.linkedin.com/in/pierre-pln)
