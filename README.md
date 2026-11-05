@@ -1,15 +1,15 @@
-<!-- Remplace Pierre-Pln-Bys par ton pseudo GitHub -->
+<!-- Readme -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00A6D6&center=true&vCenter=true&width=600&lines=Salut,+moi+c'est+Pierre+%F0%9F%91%8B;%C3%89tudiant+%C3%A0+l'ENSEIRB-MATMECA;Syst%C3%A8mes+%26+%C3%89lectronique+%26+Embarqu%C3%A9s;Du+C,+du+C%2B%2B+et+du+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pierre;ENSEIRB-MATMECA+student;Embedded+systems;C%2C+C%2B%2B%2C+Python" alt="Typing SVG" />
 
 </div>
 
-## 📌 Ce que je fais en ce moment
+## 📌 About me
 
-- 🔧 Électronique et systèmes embarqués
-- 📚 J'apprends le **C++** et la **POO** en général
+- 🔧 Electronics & embedded systems
+- 📚 Learning **C++** & **OOP**
 
 ## 💻 Technos
 
@@ -21,7 +21,7 @@
 ![Linux](https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🐍 Le serpent mange mes contributions
+## 🐍 Snake
 
 <div align="center">
 
